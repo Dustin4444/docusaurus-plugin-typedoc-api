@@ -18452,8 +18452,8 @@ __metadata:
   linkType: hard
 
 "ws@npm:^7, ws@npm:^7.3.1, ws@npm:^7.5.5":
-  version: 7.5.5
-  resolution: "ws@npm:7.5.5"
+  version: 7.5.11
+  resolution: "ws@npm:7.5.11"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -18462,7 +18462,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 2e91fd634b470f3a39bd6a9ada5e398a411bd9a32bd10d11c4ceabb2e4fd28835aeb5187fd2fc489c3e65bfdab4c29187f083d6672d7aeba014ab8a3f5f1ece2
+  checksum: 486141e4a01bb75883f9ba39317309c2427e24db1cb75e340fad6e5886b65c03d994a34209f0e4ba06dd6cb9ec95dd1b6a09c52c05eed9a34d6376f4fbbf617c
   languageName: node
   linkType: hard
 
